@@ -1,2 +1,2 @@
-# JsSiteTemplate
-Site Template for JS Projects
+# Rewind
+A javascript coding exercise using arrays. Write a program that displays a string in reverse.
